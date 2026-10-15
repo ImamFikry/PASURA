@@ -1,0 +1,6 @@
+{
+  "name": "PASURA-BIO AI - Media Etnosains Bioteknologi Jamu Kebonagung",
+  "description": "Media Pembelajaran Interaktif Bioteknologi Pangan, Bio-preservasi & Etnosains Jamu Kebonagung Pasuruan berbasis POPBL dan Culturally Responsive Teaching (CRT) untuk SMP/MTs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
